@@ -1,6 +1,6 @@
-# Supplementary Code and Data for Paper #15053
+# Supplementary Code and Data for ST-HCMs
 
-This repository contains the implementation code and data for the simulation studies and real-world data experiments presented in Paper **Spatio-Temporal Hierarchical Causal Models (#15053)**, which proposes a novel statistical framework for estimating treatment effects in spatiotemporal hierarchical data.
+This repository contains the implementation code and data for the simulation studies and real-world data experiments presented in Paper **Spatio-Temporal Hierarchical Causal Models**, which proposes a novel statistical framework for estimating treatment effects in spatiotemporal hierarchical data.
 
 ## Repository Structure
 
